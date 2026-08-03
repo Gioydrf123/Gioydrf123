@@ -18,7 +18,7 @@ I'm a passionate developer with a strong curiosity for building scalable web app
 I love the full‑stack world – from crafting responsive UIs to designing RESTful APIs – but I also enjoy diving into lower‑level languages like C and C++ when I want to understand how things really work.
 
 - 🔭 I’m currently working on: **personal secret project!**
-- 🌱 I’m currently learning: **C#**
+- 🌱 I’m currently learning: **Python3**
 - 👯 I’m looking to collaborate on: **web dev**
 - 💬 Ask me about: **Next.js, TypeScript, C/C++, or anything web**
 - 📫 How to reach me: **giovannimuhey@gmail.com**
@@ -46,6 +46,8 @@ I love the full‑stack world – from crafting responsive UIs to designing REST
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### Full Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -65,6 +67,7 @@ I love the full‑stack world – from crafting responsive UIs to designing REST
 #### Documentation & Writing
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![PlantUML](https://img.shields.io/badge/PlantUML-0A7EA4?style=for-the-badge&logo=plantuml&logoColor=white)
 
 ---
 
